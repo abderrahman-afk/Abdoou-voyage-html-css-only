@@ -1,0 +1,90 @@
+.header{
+    
+    width: 100%;
+    margin-left: 00%;
+    margin-right: 0%;
+    height: 10%;
+    line-height: 70px;
+    background-color:#333333;
+    position: fixed;
+    top:0;
+    
+}
+.header .header-logo{
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    color:#FFFFFF;
+    float:left;
+    margin-left: 30px;
+}
+.header .header-menu{
+    float:right;
+    margin-right:30px;
+}
+.header .header-menu a{
+    margin-right: 15px;
+    color:#FFFFFF;
+
+}
+.header .header-menu a:hover{
+color:#3498db;}
+.header .header-menu .c9{size:x-large;color:orange;}
+
+
+.art{float:left;padding:30px;margin:25px;background-color:white;height:170px;width:280px;}
+.art .img  {position:relative;left:190px;height:50px;width:50px;}
+
+select {
+  width: 100%;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: cyan;
+}
+
+input[type=text] {
+  width: 100%;
+  background-color: cyan;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=country] {
+  width: 100%;
+  background-color: cyan;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=date] {
+  width: 100%;
+  background-color: cyan;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=number] {
+  width: 100%;
+  background-color: cyan;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+td{color:white;}
